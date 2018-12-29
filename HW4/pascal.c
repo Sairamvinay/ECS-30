@@ -72,7 +72,7 @@ void print_pascal(int pascal_val[][28],int level)
 }
 
 
-/*
+/* 
 THIS FUNCTION FILLS THE 2D ARRAY
 PASCAL_VAL WITH ALL THE VALUES IN 
 THE TRIANGLE UPTILL THAT LEVEL
